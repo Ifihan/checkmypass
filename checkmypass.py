@@ -34,7 +34,3 @@ def main(args):
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
-
-# find another api that works
-# try to add a range for the passwords i.e if it is grater or less than this amount, it should warn you
-# also turn to a text file i/o ish 
